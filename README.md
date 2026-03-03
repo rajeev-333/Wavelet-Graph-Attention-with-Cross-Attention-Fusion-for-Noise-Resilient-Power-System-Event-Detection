@@ -1,13 +1,13 @@
 
 
 
-# ⚡ Wavelet-GAT-MCA: Robust Power System Event Classification under Noisy PMU Conditions
+#  Wavelet-GAT-MCA: Robust Power System Event Classification under Noisy PMU Conditions
 
 > A challenging M.Tech-level research implementation for realistic power system disturbance detection using Wavelet encoding, Graph-based spatial modeling, and Cross-Attention fusion.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Power systems are increasingly monitored using **Phasor Measurement Units (PMUs)**. However, real-world PMU signals are noisy and disturbances can be subtle, making event classification challenging.
 
@@ -25,7 +25,7 @@ The results demonstrate **superior robustness and generalization under realistic
 
 ---
 
-## 🧠 Proposed Architecture
+##  Proposed Architecture
 
 ```
 PMU Time-Series Signals
@@ -61,7 +61,7 @@ Event Classification
 
 ---
 
-## 📊 Event Classes
+##  Event Classes
 
 | Label  | Description          |
 | ------ | -------------------- |
@@ -110,13 +110,13 @@ Example evaluation metrics:
 
 
 
-## 🚀 Installation
+##  Installation
 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Wavelet-GAT-MCA.git
-cd Wavelet-GAT-MCA
+git clone https://github.com/rajeev-333/Wavelet-Graph-Attention-with-Cross-Attention-Fusion-for-Noise-Resilient-Power-System-Event-Detection
+cd Wavelet-GAT-MCA: Robust Power System Event Classification under Noisy PMU Conditions
 ```
 
 ### 2️⃣ Install Dependencies
@@ -144,7 +144,7 @@ The script will:
 
 
 
-## 🧪 Benchmark Models
+##  Benchmark Models
 
 * K-Nearest Neighbors
 * Support Vector Machine (RBF)
@@ -156,7 +156,7 @@ The script will:
 
 ---
 
-## 🎯 Key Findings
+##  Key Findings
 
 * Proposed model outperforms baseline on clean test data.
 * Significant robustness improvement at **20 dB noise level**.
@@ -166,7 +166,7 @@ The script will:
 
 ---
 
-## 📚 Applications
+##  Applications
 
 * Smart Grid Monitoring
 * Real-Time Fault Detection
