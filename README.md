@@ -3,7 +3,7 @@
 
 #  Wavelet-GAT-MCA: Robust Power System Event Classification under Noisy PMU Conditions
 
-> A challenging M.Tech-level research implementation for realistic power system disturbance detection using Wavelet encoding, Graph-based spatial modeling, and Cross-Attention fusion.
+> A M.Tech-level research implementation for realistic power system disturbance detection using Wavelet encoding, Graph-based spatial modeling, and Cross-Attention fusion.
 
 ---
 
